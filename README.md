@@ -1,7 +1,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tauri,git, c++" />
+  <img src="https://skillicons.dev/icons?i=python,tauri,git" />
   <br>
   <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,postgres" />
 </p>
