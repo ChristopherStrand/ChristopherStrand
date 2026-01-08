@@ -7,8 +7,8 @@ I’m a student in **Applied Robotics** at the **Norwegian University of Life Sc
 
 
 📚 This semester I’m taking:  
-- **DAT300** – Applied Deep Learning  
-- **INF230** – Databases  
+- **FYS235** – Electronics
+- **TEL211** – Robot programming 
 
   
 🎯 I’m especially interested in combining **machine learning, data analysis, robotics, and computer vision** to create practical, real-world solutions.
