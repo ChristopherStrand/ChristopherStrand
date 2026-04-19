@@ -14,7 +14,7 @@ I’m a student in **Applied Robotics** at the **Norwegian University of Life Sc
 🎯 I’m especially interested in combining **machine learning, data analysis, robotics, and computer vision** to create practical, real-world solutions.
 <hr>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tauri,git,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tauri,git,tensorflow,cpp" />
   <br>
   <img src="https://skillicons.dev/icons?i=rust,ts,nextjs,postgres,react" />
 </p>
