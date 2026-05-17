@@ -3,7 +3,7 @@ I’m a student in **Applied Robotics** at the **Norwegian University of Life Sc
 
 
 🚗 I’m currently working on projects related to **image analysis**, **autonomous systems**, and **machine learning**.  
-👨🏻‍🏫 I also work as a **teaching assistant** in *INF250 – Image Signal Processing and Computer Vision*.  
+👨🏻‍🏫 I also work as a **teaching assistant** in *INF250 – Image Analysis*.  
 
 
 📚 This semester I’m taking:  
