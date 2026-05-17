@@ -10,7 +10,8 @@ I’m a student in **Applied Robotics** at the **Norwegian University of Life Sc
 - **FYS235** – Electronics
 - **TEL211** – Robot programming 
 
-  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristopherStrand&theme=tokyonight"/>
+
 🎯 I’m especially interested in combining **machine learning, data analysis, robotics, and computer vision** to create practical, real-world solutions.
 <hr>
 <p align="center">
