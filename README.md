@@ -3,12 +3,13 @@ I’m a student in **Applied Robotics** at the **Norwegian University of Life Sc
 
 
 🚗 I’m currently working on projects related to **image analysis**, **autonomous systems**, and **machine learning**.  
-👨🏻‍🏫 I also work as a **teaching assistant** in *INF250 – Image Analysis*.  
+
 
 
 📚 This semester I’m taking:  
-- **FYS235** – Electronics
-- **TEL211** – Robot programming 
+- **FYS230** – Electrical Engineering
+- **TEL310** – Probabilistic Robotics
+- **TEL320** -  Embedded systems
 
   
 🎯 I’m especially interested in combining **machine learning, data analysis, robotics, and computer vision** to create practical, real-world solutions.
